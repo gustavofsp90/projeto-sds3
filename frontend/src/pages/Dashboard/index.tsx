@@ -31,10 +31,7 @@ const Dashboard = () => {
             </div>
             <Footer />
         </>
-
-
     );
 }
 
 export default Dashboard;
-    
